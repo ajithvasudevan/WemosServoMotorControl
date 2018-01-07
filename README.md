@@ -23,6 +23,10 @@ Note the absence of the "?". It is not a typo!
 
 Apart from the above URL, there are other URLs that can be used to set various parameters, like the 'step' size, which is the speed with which the motor's angular position changes.
 
+## Wiring Diagram
+
+
+![Wemos Servo Motor Control](https://github.com/ajithvasudevan/WemosServoMotorControl/raw/master/WemosServoMotorControl.png "Wemos Servo Motor Control")
 
   
   
