@@ -23,6 +23,10 @@ Note the absence of the "?". It is not a typo!
 
 Apart from the above URL, there are other URLs that can be used to set various parameters, like the 'step' size, which is the speed with which the motor's angular position changes.
 
+## Source Code
+
+Main source code file is [here](wemos_servo.ino) written in Arduino Programming Language, please refer to documentation [here](https://www.arduino.cc/reference/en/)
+
 ## Wiring Diagram
 
 
