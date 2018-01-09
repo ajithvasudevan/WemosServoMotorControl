@@ -1,7 +1,7 @@
 # WemosServoMotorControl
 ## Controlling a Tower Pro SG90 Micro Servo Motor over a network using a Wemos D1 Mini
 
-This project shows how one can control a commonly available micro-servo motor, the Tower Pro SG90, remotely, over a network, using a Wemos D1 Mini.
+This project shows how one can control a commonly available micro-servo motor, the Tower Pro SG90, remotely, over a network, as well as make it respond to sensor input, using a Wemos D1 Mini.
 
 The Wemos connects to Wi-Fi using the credentials specified in the code. Once connected, the system is in one of two modes - 
 
